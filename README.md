@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Kazuki0320/Kazuki0320/output/github-contribution-grid-snake.svg#gh-light-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Kazuki0320/Kazuki0320/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-_generated with [platane/snk](https:/github.com/platane.github.io/snk/)_
+_generated with [platane/snk](https://github.com/Platane/snk/)

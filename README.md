@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
  
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
- 
-_generated with [/snk](https://platane.github.io/snk/)_
+<!-- _generated with [Platane/snk](https:///Platane/snk) -->
+_generated with [platane/snk](https:/github.com/platane.github.io/snk/)_

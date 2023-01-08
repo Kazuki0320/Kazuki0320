@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-<!-- _generated with [Platane/snk](https:///Platane/snk) -->
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/Kazuki0320/Kazuki0320/output/github-contribution-grid-snake.svg#gh-light-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Kazuki0320/Kazuki0320/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 _generated with [platane/snk](https:/github.com/platane.github.io/snk/)_

@@ -1,5 +1,5 @@
 <!--
-**Kazuki0320/Kazuki0320** is a ✨ _special_ ✨ repository because its `README.md
+**Kazuki0320/Kazuki0320** is a ✨ _special_ ✨ repository because its
 -->
 
 <p align="left">

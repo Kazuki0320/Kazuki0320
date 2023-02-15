@@ -1,5 +1,5 @@
 <!--
-**Kazuki0320/Kazuki0320** is a ✨ _special
+**Kazuki0320/Kazuki0320** is a ✨ 
 -->
 
 <p align="left">

@@ -1,5 +1,5 @@
 <!--
-**Kazuki0320/Kazuki0320
+**Kazuki0320/
 -->
 
 <p align="left">

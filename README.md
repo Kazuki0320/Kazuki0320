@@ -1,5 +1,5 @@
 <!--
-**Kazuki
+**Kazu
 -->
 
 <p align="left">

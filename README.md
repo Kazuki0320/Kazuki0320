@@ -1,5 +1,4 @@
-<!--
--->
+<!---->
 
 <p align="left">
   <a href="https://github.com/Kazuki0320/Kazuki0320">

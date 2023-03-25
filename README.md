@@ -1,5 +1,3 @@
-
-
 <p align="left">
   <a href="https://github.com/Kazuki0320/Kazuki0320">
     <img src="https://komarev.com/ghpvc/?username=Kazuki0320" alt="Kazuki0320" />
